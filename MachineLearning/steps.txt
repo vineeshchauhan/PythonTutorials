@@ -1,0 +1,17 @@
+1. Import the Data.
+2. Clean the Data.
+3- Split the Data into Training/Test Sets.
+4- Create a Model.(Choose a Model)
+5- Train the Model.
+6- Make Predictions.
+7. Evaluate and Improve.
+
+Libraries
+
+Numpy- Multi-Dimensional Array.
+
+Pandas- Data analysis library provide concept called Data Frame. Data Frame is 2-D data structure similar to excel spreadsheet.
+
+MatPlotLib- 2-D plotting library for creating graph and plots.
+
+Scikit-Learn- Machine learning Library that provides all the common algorithum like Decision-Tree, Neural Network etc.
