@@ -1,0 +1,13 @@
+{
+    "name": "01-40SWHPHE-2",
+    "workRuleVersion": [
+      {
+        "general": {
+          "breaks": []
+        },
+        "effectiveDateTime": "2011-07-10T00:00:00",
+        "effectiveWorkRuleId": 8888,
+        "expirationDateTime": "3000-01-01T00:00:00"
+      }
+    ]
+  }

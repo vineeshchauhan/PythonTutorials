@@ -1,0 +1,15 @@
+{
+    "effectivePayRules": [
+        {
+            "applyOnly": false,
+            "approvedAccntNotification": {},
+            "cancelPFSEditsOnlyOnHolidays": false,
+            "cancelPFSOnHolidays": false,
+            "cancelPFSShiftsOnlyOnHolidays": false,
+            "correctionsApplyDate": 1,
+            "effectiveDate": "1753-01-01",
+            "enableEditsAfter": 0
+        }
+    ],
+    "name": "WA-ALM-CLERICAL-NON-ROSTERED"
+}
